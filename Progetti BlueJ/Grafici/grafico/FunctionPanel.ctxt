@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FunctionPanel
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=x
+comment2.target=float\ f(float)
+comment3.params=g\ x\ y
+comment3.target=void\ setPixel(java.awt.Graphics,\ float,\ float)
+numComments=4
