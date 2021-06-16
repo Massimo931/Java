@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Poligono
+comment1.params=lati\ valore_lato
+comment1.target=Poligono(int,\ double)
+comment2.params=
+comment2.target=double\ perimetro()
+comment3.params=
+comment3.target=double\ apotema()
+comment4.params=
+comment4.target=double\ area()
+numComments=5
