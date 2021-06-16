@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Disegnabile
+comment1.params=c
+comment1.target=void\ ImpostaColore(java.lang.String)
+comment2.params=x\ y
+comment2.target=void\ FissaPosizione(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ Disegna()
+numComments=4

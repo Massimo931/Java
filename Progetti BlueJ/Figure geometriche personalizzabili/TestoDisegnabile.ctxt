@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TestoDisegnabile
+comment1.params=
+comment1.target=TestoDisegnabile()
+comment2.params=t
+comment2.target=void\ ImpostaTesto(java.lang.String)
+comment3.params=c
+comment3.target=void\ ImpostaColore(java.lang.String)
+comment4.params=x\ y
+comment4.target=void\ FissaPosizione(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ Disegna()
+numComments=6

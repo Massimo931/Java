@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FiguraPiana
+comment1.params=
+comment1.target=FiguraPiana()
+comment2.params=
+comment2.target=double\ Area()
+comment3.params=
+comment3.target=double\ Perimetro()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=perimetro
+comment5.target=void\ SetPerimetro(double)
+comment6.params=area
+comment6.target=void\ SetArea(double)
+comment7.params=
+comment7.target=double\ GetPerimetro()
+comment8.params=
+comment8.target=double\ GetArea()
+numComments=9

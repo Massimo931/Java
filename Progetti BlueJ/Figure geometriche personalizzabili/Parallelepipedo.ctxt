@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Parallelepipedo
+comment1.params=b\ h\ l
+comment1.target=Parallelepipedo(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ Area()
+comment3.params=
+comment3.target=double\ Volume()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=v
+comment5.target=void\ SetVolume(double)
+comment6.params=
+comment6.target=double\ GetVolume()
+comment7.params=l
+comment7.target=void\ SetLato(double)
+comment8.params=
+comment8.target=double\ GetLato()
+numComments=9

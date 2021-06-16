@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RettangoloDisegnabile
+comment1.params=b\ h
+comment1.target=RettangoloDisegnabile(double,\ double)
+comment2.params=c
+comment2.target=void\ ImpostaColore(java.lang.String)
+comment3.params=x\ y
+comment3.target=void\ FissaPosizione(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ Disegna()
+numComments=5
